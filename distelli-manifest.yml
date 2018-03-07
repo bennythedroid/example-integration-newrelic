@@ -1,4 +1,4 @@
-gandrews/mulan_app:
+bpoland/bp-integration-newrelic:
 
   Env:
     - NR_INSTALL_SILENT: "TRUE"
